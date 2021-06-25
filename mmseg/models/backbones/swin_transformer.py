@@ -254,7 +254,7 @@ class SwinTransformerBlock(nn.Module):
 
         return x
 
-
+#
 class PatchMerging(nn.Module):
     """ Patch Merging Layer
 
